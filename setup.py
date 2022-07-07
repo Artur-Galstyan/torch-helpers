@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-    name="torch-helpers",  # How you named your package folder (MyLib)
-    packages=["torch-helpers"],  # Chose the same as "name"
+    name="torch_helpers",  # How you named your package folder (MyLib)
+    packages=["torch_helpers"],  # Chose the same as "name"
     version="0.1",  # Start with a small number and increase it with every change you make
     license="MIT",  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description="This library is a helper to create and manage your machine learning datasets more effectively",  # Give a short description about your library
