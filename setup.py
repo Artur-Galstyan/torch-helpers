@@ -9,7 +9,7 @@ setup(
     author="Artur A. Galstyan",  # Type in your name
     author_email="mail@arturgalstyan.dev",  # Type in your E-Mail
     url="https://github.com/Artur-Galstyan/torch-helpers",  # Provide either the link to your github or to your website
-    download_url="https://github.com/Artur-Galstyan/torch-helpers/archive/refs/tags/v0.1-alpha.tar.gz",  # I explain this later on
+    download_url="https://github.com/Artur-Galstyan/torch-helpers/archive/refs/heads/master.zip",  # I explain this later on
     keywords=[
         "pytorch",
         "torch",
